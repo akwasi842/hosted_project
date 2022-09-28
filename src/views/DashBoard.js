@@ -29,8 +29,8 @@ const DashBoard = () => {
           <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style={{ minHeight: "400px" }}>
-                <img class="position-absolute w-100 h-100" src="assets/img/about-1.jpg" alt="" style={{ objectFit: "cover" }}/>
-                <img class="position-absolute top-0 start-0 bg-white pe-3 pb-3" src="assets/img/about-2.jpg" alt="" style={{ width: "200px", height: "200px" }}/>
+                <img class="position-absolute w-100 h-100" src="assets/img/ezekiel2.jpeg" alt="" style={{ objectFit: "cover" }}/>
+                <img class="position-absolute top-0 start-0 bg-white pe-3 pb-3" src="assets/img/ezekiel2.jpeg" alt="" style={{ width: "200px", height: "200px" }}/>
               </div>
             </div>
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -80,13 +80,13 @@ const DashBoard = () => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                 <div class="text-center p-4 pt-0">
-                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>
-                  <h5 class="mb-3">Automatic Car Lessons</h5>
-                  <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diamamet diam et eos</p>
+                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">100%</div>
+                  <h5 class="mb-3">Africa Wears For All Your Occassions</h5>
+                  <p>At Ezekiel Clothings We Deal In All Types Of Africa Wear Being It Gents And Ladies</p>
                   <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item small">
-                      <i class="fa fa-signal text-primary me-2"></i>Beginner</li>
-                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>3 Week</li>
+                      <i class="fa fa-signal text-primary me-2"></i>Accuracy</li>
+                      <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Perfection</li>
                   </ol>
                 </div>
                 <div class="position-relative mt-auto">
@@ -100,12 +100,12 @@ const DashBoard = () => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                 <div class="text-center p-4 pt-0">
-                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>
-                  <h5 class="mb-3">Highway Driving Lesson</h5>
-                  <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diamamet diam et eos</p>
+                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">100%</div>
+                  <h5 class="mb-3">Suits For All Location</h5>
+                  <p>Ezekiel Clothing Deals In All Kinds of Suits Being Political Suits And Wedding Suits</p>
                   <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item small"><i class="fa fa-signal text-primary me-2"></i>Beginner</li>
-                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>3 Week</li>
+                    <li class="breadcrumb-item small"><i class="fa fa-signal text-primary me-2"></i>Accuracy</li>
+                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Perfection</li>
                   </ol>
                 </div>
                 <div class="position-relative mt-auto">
@@ -119,12 +119,12 @@ const DashBoard = () => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                 <div class="text-center p-4 pt-0">
-                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>
-                  <h5 class="mb-3">International Driving</h5>
-                  <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diamamet diam et eos</p>
+                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">100%</div>
+                  <h5 class="mb-3">Wedding Gowns For All Your Memorable Day</h5>
+                  <p>Ezekiel Clothing Designs Any Type Of Wedding Gowns For Your Weddings</p>
                   <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item small"><i class="fa fa-signal text-primary me-2"></i>Beginner</li>
-                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>3 Week</li>
+                    <li class="breadcrumb-item small"><i class="fa fa-signal text-primary me-2"></i>Accuracy</li>
+                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Perfection</li>
                   </ol>
                 </div>
                 <div class="position-relative mt-auto">
@@ -218,8 +218,8 @@ const DashBoard = () => {
             </div>
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="position-relative overflow-hidden pe-5 pt-5 h-100" style={{ minHeight: "400px" }}>
-                <img class="position-absolute w-100 h-100" src="assets/img/about-1.jpg" alt=""style={{ objectFit: "cover" }}/>
-                <img class="position-absolute top-0 end-0 bg-white ps-3 pb-3" src="assets/img/about-2.jpg"alt="" style={{ width: "200px", height: "200px" }}/>
+                <img class="position-absolute w-100 h-100" src="assets/img/ezekiel3.jpeg" alt=""style={{ objectFit: "cover" }}/>
+                <img class="position-absolute top-0 end-0 bg-white ps-3 pb-3" src="assets/img/ezekiel4.jpeg"alt="" style={{ width: "200px", height: "200px" }}/>
               </div>
             </div>
           </div>
