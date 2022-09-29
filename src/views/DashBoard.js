@@ -56,7 +56,7 @@ const DashBoard = () => {
                 </div>
                 <div class="row g-4">
                   <div class="col-sm-6">
-                    <a class="btn btn-primary py-3 px-5" href="">Read More</a>
+                    <a class="btn btn-primary py-3 px-5" href="/">Read More</a>
                   </div>
                   <div class="col-sm-6">
                     <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="tel:+233 (0)555618873">
@@ -92,7 +92,7 @@ const DashBoard = () => {
                 <div class="position-relative mt-auto">
                   <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
                   <div class="courses-overlay">
-                    <a class="btn btn-outline-primary border-2" href="">Read More</a>
+                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
                   </div>
                 </div>
               </div>
@@ -111,7 +111,7 @@ const DashBoard = () => {
                 <div class="position-relative mt-auto">
                   <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
                   <div class="courses-overlay">
-                    <a class="btn btn-outline-primary border-2" href="">Read More</a>
+                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
                   </div>
                 </div>
               </div>
@@ -130,7 +130,7 @@ const DashBoard = () => {
                 <div class="position-relative mt-auto">
                   <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
                   <div class="courses-overlay">
-                    <a class="btn btn-outline-primary border-2" href="">Read More</a>
+                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
                   </div>
                 </div>
               </div>

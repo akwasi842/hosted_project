@@ -50,7 +50,7 @@ const AboutUs = () => {
                 </div>
                 <div class="row g-4">
                   <div class="col-sm-6">
-                    <a class="btn btn-primary py-3 px-5" href="">Read More</a>
+                    <a class="btn btn-primary py-3 px-5" href="/">Read More</a>
                   </div>
                   <div class="col-sm-6">
                     <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="tel:+0123456789">
@@ -66,134 +66,68 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
-      <div class="container-xxl py-6">
+      <div class="container-xxl courses my-6 py-6 pb-0">
         <div class="container">
-          <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"style={{ maxWidth: "500px" }}>
-            <h6 class="text-primary text-uppercase mb-2">Meet The Team</h6>
-            <h1 class="display-6 mb-4">We Have Great Experience Of Driving</h1>
+          <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style={{ maxWidth: "500px" }}>
+            <h6 class="text-primary text-uppercase mb-2">Tranding Styles</h6>
+            <h1 class="display-6 mb-4">Our Gallery Upskill You With Confidence Dressing</h1>
           </div>
-          <div class="row g-0 team-items">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-1.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
+          <div class="row g-4 justify-content-center">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+              <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                <div class="text-center p-4 pt-0">
+                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">100%</div>
+                  <h5 class="mb-3">Africa Wears For All Your Occassions</h5>
+                  <p>At Ezekiel Clothings We Deal In All Types Of Africa Wear Being It Gents And Ladies</p>
+                  <ol class="breadcrumb justify-content-center mb-0">
+                    <li class="breadcrumb-item small">
+                      <i class="fa fa-signal text-primary me-2"></i>Accuracy</li>
+                      <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Perfection</li>
+                  </ol>
                 </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
+                <div class="position-relative mt-auto">
+                  <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
+                  <div class="courses-overlay">
+                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-2.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+              <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                <div class="text-center p-4 pt-0">
+                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">100%</div>
+                  <h5 class="mb-3">Suits For All Location</h5>
+                  <p>Ezekiel Clothing Deals In All Kinds of Suits Being Political Suits And Wedding Suits</p>
+                  <ol class="breadcrumb justify-content-center mb-0">
+                    <li class="breadcrumb-item small"><i class="fa fa-signal text-primary me-2"></i>Accuracy</li>
+                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Perfection</li>
+                  </ol>
                 </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
+                <div class="position-relative mt-auto">
+                  <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
+                  <div class="courses-overlay">
+                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-3.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+              <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                <div class="text-center p-4 pt-0">
+                  <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">100%</div>
+                  <h5 class="mb-3">Wedding Gowns For All Your Memorable Day</h5>
+                  <p>Ezekiel Clothing Designs Any Type Of Wedding Gowns For Your Weddings</p>
+                  <ol class="breadcrumb justify-content-center mb-0">
+                    <li class="breadcrumb-item small"><i class="fa fa-signal text-primary me-2"></i>Accuracy</li>
+                    <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Perfection</li>
+                  </ol>
+                </div>
+                <div class="position-relative mt-auto">
+                  <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
+                  <div class="courses-overlay">
+                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
                   </div>
-                </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-4.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
                 </div>
               </div>
             </div>
