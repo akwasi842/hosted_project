@@ -49,10 +49,10 @@ const DashBoard = () => {
                   sed stet lorem sit clita duo justo magna dolore erat amet
                 </p> */}
                 <div class="row g-2 mb-4 pb-2">
-                  <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Fully Licensed</div>
-                  <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Online Tracking</div>
+                  <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Creativity</div>
+                  <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Best Designers</div>
                   <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Afordable Fee</div>
-                  <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Best Trainers</div>
+                  <div class="col-sm-6"><i class="fa fa-check text-primary me-2"></i>Time Effective</div>
                 </div>
                 <div class="row g-4">
                   <div class="col-sm-6">
