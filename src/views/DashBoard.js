@@ -16,7 +16,7 @@ const DashBoard = () => {
   const submitForm = (e) => {
       e.preventDefault();
 
-      alert(JSON.stringify(formItems));
+      // alert(JSON.stringify(formItems));
 
       //post options
   };
