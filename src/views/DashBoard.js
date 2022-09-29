@@ -19,6 +19,12 @@ const DashBoard = () => {
       // alert(JSON.stringify(formItems));
 
       //post options
+
+      setFormItems({
+        name:"",
+        email:"",
+        message:""
+      });
   };
 
   return (
