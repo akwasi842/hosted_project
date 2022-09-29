@@ -210,7 +210,7 @@ const DashBoard = () => {
                     <div class="flex-shrink-0 btn-square bg-primary me-3">
                       <i class="fa fa-check text-white"></i>
                     </div>
-                    <h5 class="mb-0">Time</h5>
+                    <h5 class="mb-0">Time Effective</h5>
                   </div>
                   <span style={{color:"black"}}>At Ezekiel Clothings, time is one thing we factor, ensuring puntuality</span>
                 </div>
