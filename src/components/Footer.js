@@ -1,4 +1,5 @@
 import React from 'react'
+import { Menu } from './Solomon'
 
 const Footer = () => {
   return (
@@ -8,26 +9,22 @@ const Footer = () => {
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Get In Touch</h4>
-                    <h2 class="text-primary mb-4"><i class="fa fa-car text-white me-2"></i>Fashion</h2>
+                    <h2 class="text-primary mb-4"><i class="fa fa-binoculars text-white me-2"></i>Fashion</h2>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Anyaa Palas Town, Accra, Ghana</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 6789</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Quick Links</h4>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
+                    {Menu.map(menu =>(
+                        <a class="btn btn-link"href={`/${menu.link}`}>{menu.name}</a>
+                    ))}
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-light mb-4">Popular Links</h4>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
+                    <h4 class="text-light mb-4">Quick Links</h4>
+                    {Menu.map(menu =>(
+                        <a class="btn btn-link"href={`/${menu.link}`}>{menu.name}</a>
+                    ))}
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
@@ -52,11 +49,11 @@ const Footer = () => {
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="#">Your Site Name</a>, All Right Reserved.
+                    &copy; <a href="www.ezekielclothings.com">Ezekiel Clothing</a>, All Right Reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    Developed By: <a href="https://htmlcodex.com">Solomon Aboagye</a>
-                    <br/>Distributed By: <a href="https://themewagon.com" target="_blank">Mojave Cosultancy</a>
+                    Developed By: <a href="/">Solomon Aboagye</a>
+                    <br/>Distributed By: <a href="/" target="">Mojave Cosultancy</a>
                 </div>
             </div>
         </div>
