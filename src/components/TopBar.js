@@ -48,7 +48,7 @@ const TopBar = () => {
         <div class="collapse navbar-collapse mr-5" id="navbarCollapse" style={{marginRight:"80px"}}>
           <div class="navbar-nav ms-auto p-4 p-lg-0">
             {Menu.map(menu =>(
-              <a href={`/https://main--ezekielclothings.netlify.app${menu.link}`}class="nav-item nav-link active">{menu.name}</a>
+              <a href={`/${menu.link}`}class="nav-item nav-link active">{menu.name}</a>
             ))}
           </div>
           {/* <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Get Started<i class="fa fa-arrow-right ms-3"></i></a> */}
