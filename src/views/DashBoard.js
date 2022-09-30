@@ -44,7 +44,7 @@ const DashBoard = () => {
                 <h6 class="text-primary text-uppercase mb-2">About Us</h6>
                 <h1 class="display-6 mb-4">We Design and create  & Creates to Design Says Mr.Boahen Ofosu Ezekiel</h1>
                 <p style={{color:"black",fontSize:"17px"}}>Boahen Ofosu Ezekiel the Chief Executive Officer of Ezekiel Clothing who started 
-                   his creativity carer right from infancy. Mr. Ezekiel who has been is the creative art 
+                   his creativity carer right from infancy. Mr. Ezekiel who has been in the creative art 
                    industry decided to polish his carer in 2015 and over the years has been providing Ghanaians
                    with the latest fashion designs within Accra and its surroundings.The years Mr. Ezekiel
                    has spend in the fashion design industry has make him one of the best within the country.
