@@ -35,8 +35,8 @@ const DashBoard = () => {
           <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style={{ minHeight: "400px" }}>
-                <img class="position-absolute w-100 h-100" src="assets/img/ezekiel2.jpeg" alt="" style={{ objectFit: "cover" }}/>
-                <img class="position-absolute top-0 start-0 bg-white pe-3 pb-3" src="assets/img/ezekiel2.jpeg" alt="" style={{ width: "200px", height: "200px" }}/>
+                <img class="position-absolute w-100 h-100" src="assets/img/ezekiel2.jpeg" alt="" />
+                <img class="position-absolute top-0 start-0 bg-white pe-3 pb-3 img-responsive" src="assets/img/ezekiel2.jpeg" alt="" style={{ width: "200px", height: "200px" }}/>
               </div>
             </div>
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -62,7 +62,7 @@ const DashBoard = () => {
                 </div>
                 <div class="row g-4">
                   <div class="col-sm-6">
-                    <a class="btn btn-primary py-3 px-5" href="/">Read More</a>
+                    <a class="btn btn-primary py-3 px-5" href="/aboutus">Read More</a>
                   </div>
                   <div class="col-sm-6">
                     <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="tel:+233 (0)555618873">
@@ -98,7 +98,7 @@ const DashBoard = () => {
                 <div class="position-relative mt-auto">
                   <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
                   <div class="courses-overlay">
-                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
+                    <a class="btn btn-outline-primary border-2" href="/africa">Read More</a>
                   </div>
                 </div>
               </div>
@@ -117,7 +117,7 @@ const DashBoard = () => {
                 <div class="position-relative mt-auto">
                   <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
                   <div class="courses-overlay">
-                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
+                    <a class="btn btn-outline-primary border-2" href="/suits">Read More</a>
                   </div>
                 </div>
               </div>
@@ -136,7 +136,7 @@ const DashBoard = () => {
                 <div class="position-relative mt-auto">
                   <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
                   <div class="courses-overlay">
-                    <a class="btn btn-outline-primary border-2" href="/">Read More</a>
+                    <a class="btn btn-outline-primary border-2" href="/gown">Read More</a>
                   </div>
                 </div>
               </div>
@@ -231,140 +231,6 @@ const DashBoard = () => {
           </div>
         </div>
       </div>
-      {/* <div class="container-xxl py-6">
-        <div class="container">
-          <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"style={{ maxWidth: "500px" }}>
-            <h6 class="text-primary text-uppercase mb-2">Meet The Team</h6>
-            <h1 class="display-6 mb-4">We Have Great Experience Of Driving</h1>
-          </div>
-          <div class="row g-0 team-items">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-1.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-2.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-3.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-              <div class="team-item position-relative">
-                <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/team-4.jpg" alt="" />
-                  <div class="team-social text-center">
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </a>
-                    <a
-                      class="btn btn-square btn-outline-primary border-2 m-1"
-                      href=""
-                    >
-                      <i class="fab fa-instagram"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
-                  <span>Trainer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> */}
     </div>
   );
 };

@@ -13,8 +13,8 @@ const Slider = () => {
                   <div class="row justify-content-center">
                     <div class="col-lg-7">
                       <h1 class="display-2 text-light mb-5 animated slideInDown">Learn To Dress With Confidence</h1>
-                      <a href="" class="btn btn-primary py-sm-3 px-sm-5">Read More</a>
-                      <a href="" class="btn btn-light py-sm-3 px-sm-5 ms-3">Our Gallery</a>
+                      <a href="/aboutus" class="btn btn-primary py-sm-3 px-sm-5">Read More</a>
+                      <a href="/gallery" class="btn btn-light py-sm-3 px-sm-5 ms-3">Our Gallery</a>
                     </div>
                   </div>
                 </div>
@@ -27,8 +27,8 @@ const Slider = () => {
                   <div class="row justify-content-center">
                     <div class="col-lg-7">
                       <h1 class="display-2 text-light mb-5 animated slideInDown">Confidence Dressing Is Our Top Priority</h1>
-                      <a href="" class="btn btn-primary py-sm-3 px-sm-5">Read More</a>
-                      <a href="" class="btn btn-light py-sm-3 px-sm-5 ms-3">Our Gallery</a>
+                      <a href="/aboutus" class="btn btn-primary py-sm-3 px-sm-5">Read More</a>
+                      <a href="/gallery" class="btn btn-light py-sm-3 px-sm-5 ms-3">Our Gallery</a>
                     </div>
                   </div>
                 </div>

@@ -11,7 +11,7 @@ const Footer = () => {
                     <h4 class="text-white mb-4">Get In Touch</h4>
                     <h2 class="text-primary mb-4"><i class="fa fa-binoculars text-white me-2"></i>Fashion</h2>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Anyaa Palas Town, Accra, Ghana</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 6789</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+233 (0)555618873</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
