@@ -19,7 +19,13 @@ const Contact = () => {
 
     const submitForm = (e) => {
         e.preventDefault();
-        alert(JSON.stringify(formItems))
+        
+        setFormItems({
+            name:"",
+            email:"",
+            subject:"",
+            message:""
+        });
         //postoptions
     }
 
