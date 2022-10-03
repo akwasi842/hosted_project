@@ -43,7 +43,7 @@ const Contact = () => {
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style={{minHeight: "450px"}}>
                     <div class="position-relative h-100">
                         <iframe class="position-relative w-100 h-100"
-                        src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d369.1640320570288!2d-0.29669545587352103!3d5.601659467614071!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgh!4v1659379501635!5m2!1sen!2sgh"                        frameborder="0" style={{minHeight: "450px", border:"0"}} allowfullscreen="" aria-hidden="false"
+                        src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d369.1640320570288!2d-0.29669545587352103!3d5.601659467614071!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgh!4v1659379501635!5m2!1sen!2sgh" frameborder="0" style={{minHeight: "450px", border:"0"}} allowfullscreen="" aria-hidden="false"
                         tabindex="0"></iframe>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ const Contact = () => {
                 </div>
             </div>
         </div>
-    </div>
+        </div>
     </div>
   )
 }

@@ -224,8 +224,8 @@ const DashBoard = () => {
             </div>
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="position-relative overflow-hidden pe-5 pt-5 h-100" style={{ minHeight: "400px" }}>
-                <img class="position-absolute w-100 h-100" src="assets/img/ezekiel3.jpeg" alt=""style={{ objectFit: "cover" }}/>
-                <img class="position-absolute top-0 end-0 bg-white ps-3 pb-3" src="assets/img/ezekiel4.jpeg"alt="" style={{ width: "200px", height: "200px" }}/>
+                <img class="position-absolute w-100 h-100" src="assets/img/suits/suit4.jpg" alt=""/>
+                <img class="position-absolute top-0 end-0 bg-white ps-3 pb-3" src="assets/img/suits/suit8.jpg"alt="" style={{ width: "200px", height: "200px" }}/>
               </div>
             </div>
           </div>
