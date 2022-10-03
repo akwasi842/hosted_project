@@ -13,52 +13,52 @@ const Gown = () => {
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="team-item position-relative">
               <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown5.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                  
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                
                 </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="team-item position-relative">
               <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown6.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                   
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                 
                 </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="team-item position-relative">
               <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown7.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                    
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                 
                 </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
               <div class="team-item position-relative">
                 <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown9.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                    
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                 
                 </div>
               </div>
             </div>
@@ -67,52 +67,52 @@ const Gown = () => {
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="team-item position-relative">
               <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown11.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                 
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                 
                 </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="team-item position-relative">
               <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown1.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                  
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                
                 </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="team-item position-relative">
               <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown3.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                  
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+               
                 </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
               <div class="team-item position-relative">
                 <div class="position-relative">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                  <img class="img-fluid" src="assets/img/gowns/gown4.jpg" alt="" />
                   <div class="team-social text-center">
-                    <span>Full Name</span>
+                  
                   </div>
                 </div>
                 <div class="bg-light text-center p-4">
-                  <h5 class="mt-2">Full Name</h5>
+                
                 </div>
               </div>
             </div>

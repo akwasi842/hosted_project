@@ -115,7 +115,7 @@ const DashBoard = () => {
                   </ol>
                 </div>
                 <div class="position-relative mt-auto">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
+                  <img class="img-fluid" src="assets/img/suits/suit4.jpg" alt=""/>
                   <div class="courses-overlay">
                     <a class="btn btn-outline-primary border-2" href="/suits">Read More</a>
                   </div>
@@ -134,7 +134,7 @@ const DashBoard = () => {
                   </ol>
                 </div>
                 <div class="position-relative mt-auto">
-                  <img class="img-fluid" src="assets/img/style2.jpg" alt=""/>
+                  <img class="img-fluid" src="assets/img/gowns/gown2.jpg" alt=""/>
                   <div class="courses-overlay">
                     <a class="btn btn-outline-primary border-2" href="/gown">Read More</a>
                   </div>

@@ -13,52 +13,52 @@ const Suits = () => {
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="team-item position-relative">
             <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit4.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Political Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Political Suit</h5>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="team-item position-relative">
             <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit5.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="team-item position-relative">
             <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit6.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
             <div class="team-item position-relative">
               <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit16.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
@@ -67,52 +67,52 @@ const Suits = () => {
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="team-item position-relative">
             <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit10.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="team-item position-relative">
             <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit11.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="team-item position-relative">
             <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit13.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
             <div class="team-item position-relative">
               <div class="position-relative">
-                <img class="img-fluid" src="assets/img/style2.jpg" alt="" />
+                <img class="img-fluid" src="assets/img/suits/suit14.jpg" alt="" />
                 <div class="team-social text-center">
-                  <span>Full Name</span>
+                  <span>Africa Suit</span>
                 </div>
               </div>
               <div class="bg-light text-center p-4">
-                <h5 class="mt-2">Full Name</h5>
+                <h5 class="mt-2">Africa Suit</h5>
               </div>
             </div>
           </div>
