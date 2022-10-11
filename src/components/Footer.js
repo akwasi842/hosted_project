@@ -2,6 +2,9 @@ import React from 'react'
 import { Menu } from './Solomon'
 
 const Footer = () => {
+
+    const date = new Date();
+
   return (
     <div>
          <div class="container-fluid bg-dark text-light footer my-6 mb-0 py-6 wow fadeIn" data-wow-delay="0.1s">
@@ -49,7 +52,7 @@ const Footer = () => {
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="www.ezekielclothings.com">Ezekiel Clothing</a>, All Right Reserved.
+                    &copy; <a href="www.ezekielclothings.com">Ezekiel Clothing</a>, {date.getFullYear()} All Right Reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     Developed By: <a href="/">Solomon Aboagye</a>
