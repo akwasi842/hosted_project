@@ -56,18 +56,7 @@ const Contact = () => {
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <h6 class="text-primary text-uppercase mb-2">Contact Us</h6>
                     <h1 class="display-6 mb-4">If You Have Any Query, Please Contact Us</h1>
-                    <form name="contact" netlify>
-  <p>
-    <label>Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-                    {/* <form id='frmSidney' onSubmit={submitForm} name="contact v1" method='post' data-netlify="true"  >
+                    <form id='frmSidney' onSubmit={submitForm} name="contact v1" method='post' data-netlify="true"  >
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
@@ -97,7 +86,7 @@ const Contact = () => {
                                 <button class="btn btn-primary py-3 px-5" type="submit">Send Message</button>
                             </div>
                         </div>
-                    </form> */}
+                    </form>
                 </div>
             </div>
         </div>
