@@ -116,6 +116,58 @@ const Suits = () => {
               </div>
             </div>
           </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+            <div class="team-item position-relative">
+              <div class="position-relative">
+                <img class="img-fluid" src="assets/img/suits/suit17.jpg" alt="" />
+                <div class="team-social text-center">
+                  <span>Foreign Suit</span>
+                </div>
+              </div>
+              <div class="bg-light text-center p-4">
+                <h5 class="mt-2">Foreign Suit</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+            <div class="team-item position-relative">
+              <div class="position-relative">
+                <img class="img-fluid" src="assets/img/suits/suit18.jpg" alt="" />
+                <div class="team-social text-center">
+                  <span>Foreign Suit</span>
+                </div>
+              </div>
+              <div class="bg-light text-center p-4">
+                <h5 class="mt-2">Foreign Suit</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+            <div class="team-item position-relative">
+              <div class="position-relative">
+                <img class="img-fluid" src="assets/img/suits/suit19.jpg" alt="" />
+                <div class="team-social text-center">
+                  <span>Foreign Suit</span>
+                </div>
+              </div>
+              <div class="bg-light text-center p-4">
+                <h5 class="mt-2">Foreign Suit</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+            <div class="team-item position-relative">
+              <div class="position-relative">
+                <img class="img-fluid" src="assets/img/suits/suit20.jpg" alt="" />
+                <div class="team-social text-center">
+                  <span>Foreign Suit</span>
+                </div>
+              </div>
+              <div class="bg-light text-center p-4">
+                <h5 class="mt-2">Foreign Suit</h5>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
