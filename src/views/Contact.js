@@ -48,9 +48,10 @@ const Contact = () => {
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style={{minHeight: "450px"}}>
                     <div class="position-relative h-100">
-                        <iframe class="position-relative w-100 h-100"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1059.3426860144016!2d-0.2958195487831277!3d5.600790552504639!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x922b5c4024dba13a!2sEzekiel%20Clothings!5e0!3m2!1sen!2sgh!4v1666204755092!5m2!1sen!2sgh" width="600" height="450" style={{minHeight: "450px",border:"0"}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        {/* <iframe class="position-relative w-100 h-100"
                         src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6123.761663442982!2d-0.29615772849209654!3d5.6012270724189905!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgh!4v1665998476588!5m2!1sen!2sgh" frameborder="0" style={{minHeight: "450px", border:"0"}} allowfullscreen="" aria-hidden="false"
-                        tabindex="0" title='map' ></iframe>
+                        tabindex="0" title='map' ></iframe> */}
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
